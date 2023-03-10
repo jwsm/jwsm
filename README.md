@@ -1,5 +1,8 @@
-👋 Hi, I’m @jwsm
+👋 Hi, I’m Jonathan
 
+- I'm a Software Architect and musician
+- I work at [Warpwire](https://www.warpwire.com/)
+- Read more on [my website](https://jonathanstuartmoore.com/)
 
 <!---
 - 👀 I’m interested in technology, music, and education
